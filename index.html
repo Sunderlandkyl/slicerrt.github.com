@@ -7,9 +7,7 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="javascripts/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -19,24 +17,51 @@
       <header>
         <h1>SlicerIGT</h1>
         <p>An extension that contain modules relating to image guided therapy</p>
-        <p class="view"><a href="https://github.com/SlicerIGT">View the Project on GitHub <small>SlicerIGT</small></a></p>
-        <ul>
-          <li class="single"><a href="">View On <strong>GitHub</strong></a></li>
-        </ul>
+
+
+        <p class="view"><a href="https://github.com/SlicerIGT">View My GitHub Profile</a></p>
+
       </header>
       <section>
         <h3>Welcome to SlicerIGT</h3>
 
-<p>Collection of Slicer modules to supplement image guided therapy procedures. In order to begin, checkout the root level repository (<a href="https://github.com/SlicerIGT/SlicerIGT">https://github.com/SlicerIGT/SlicerIGT</a>) and run CMake.</p>
+<p>Collection of Slicer modules to supplement image guided therapy procedures. In order to begin, checkout the root level repository (<a href="https://github.com/SlicerIGT/SlicerIGT">https://github.com/SlicerIGT/SlicerIGT</a>) and run CMake. SlicerIGT is only supported under Slicer4.</p>
 
-<pre><code>$ cd SlicerIGT/SlicerIGT
-$ git fetch origin
-$ git checkout master
+<h3>Installing SlicerIGT</h3>
+
+<p>The SlicerIGT extension is present in the extension manager. To use SlicerIGT modules, simply install from the extension manager.</p>
+
+<h3>Developing SlicerIGT</h3>
+
+<p>Fork the module you wish to develop. Perform any modifications you wish and simply make a pull request and we will review your changes!</p>
+
+<p>To set up the development environment, you will need a set of tools for development. The following commands assume a properly installed command line git.</p>
+
+<pre><code>$ mkdir &lt;root&gt;/SlicerIGT
+$ mkdir &lt;root&gt;/SlicerIGT/SlicerIGT
+$ cd &lt;root&gt;/SlicerIGT/SlicerIGT
+$ git clone https://github.com/SlicerIGT/SlicerIGT.git
 </code></pre>
+
+<p>Once cloned, use CMake to produce the build folder. Depending on development environment, run make/VisualStudio build/etc...</p>
 
 <h3>Modules Details</h3>
 
-<p>TODO : fill information relating to each module</p>
+<p>CollectFiducials: </p>
+
+<p>CreateModels:</p>
+
+<p>Documentation:</p>
+
+<p>PerkEvaluator:</p>
+
+<p>TargetFiducials:</p>
+
+<p>TransformRecorder: Experimental module</p>
+
+<p>UltrasoundSnapshots:</p>
+
+<p>WorkflowSegmentation: Experimental module</p>
 
 <h3>Authors and Contributors</h3>
 
@@ -44,15 +69,29 @@ $ git checkout master
 Tamas Ungi (<a href="https://github.com/ungi" class="user-mention">@ungi</a>) from the Laboratory for Percutaneous Surgery at Queen's University in Kingston, ON.
 Adam Rankin (<a href="https://github.com/adamrankin" class="user-mention">@adamrankin</a>) from the Laboratory for Percutaneous Surgery at Queen's University in Kingston, ON.</p>
 
+<h3>More Information</h3>
+
+<p>For more details, you can read much on our previous project page at <a href="https://www.assembla.com/spaces/slicerigt/wiki">https://www.assembla.com/spaces/slicerigt/wiki</a>.</p>
+
 <h3>Support or Contact</h3>
 
 <p>Having trouble with a module? Feel free to email one of the authors or post an issue to <a href="https://github.com/SlicerIGT/SlicerIGT/issues">https://github.com/SlicerIGT/SlicerIGT/issues</a>.</p>
       </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
-    <footer>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-37562198-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
   </body>
 </html>
