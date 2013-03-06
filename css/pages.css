@@ -116,8 +116,8 @@ a.button.left{
   border: 1px solid #ddd;
   border-radius: 3px;
   
-  background: #d5d5e5;
-  background: -webkit-linear-gradient(top, #d5e5e5, #c5d5d5);
+  background: #f5f5f5;
+  background: -webkit-linear-gradient(top, #f5f5f5, #e5e5e5);
   background: -moz-linear-gradient(top, #f5f5f5, #e5e5e5);
   background: -ms-linear-gradient(top, #f5f5f5, #e5e5e5);
   background: -0-linear-gradient(top, #f5f5f5, #e5e5e5);
