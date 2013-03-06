@@ -20,19 +20,14 @@ Reference: Ungi et al. 2012, IEEE TBME
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0"></iframe>
 
-
 ##Ultrasound guided prostate brachytherapy demo
 
-<!--
+<iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A" frameborder="0"></iframe>
 
+##Simulated endoscopy
 
-<h2>Simulated endoscopy</h2>
-<p>
-<iframe width="420" height="315" src="http://www.youtube.com/embed/QRFJRZwVKTQ" frameborder="0" allowfullscreen></iframe>
-</p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/QRFJRZwVKTQ" frameborder="0"></iframe>
 
-<h2>Tracked ultrasound calibration</h2>
-<p>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/85SCx1Tm11Y" frameborder="0" allowfullscreen></iframe>
-</p>
--->
+##Tracked ultrasound calibration
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/85SCx1Tm11Y" frameborder="0"></iframe>
