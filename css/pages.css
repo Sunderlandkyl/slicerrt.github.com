@@ -61,6 +61,10 @@ ul {
   list-style-position:inside;
 }
 
+ul li {
+  padding-left: 14px;
+}
+
 ol {
   list-style-type: decimal;
   list-style-position:inside;
