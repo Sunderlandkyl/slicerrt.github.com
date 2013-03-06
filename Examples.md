@@ -18,13 +18,15 @@ layout: default
 
 Reference: Ungi et al. 2012, IEEE TBME
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI"></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI">
+</iframe>
 
 ##Ultrasound guided prostate brachytherapy demo
 
 This demo shows the components that can be used in a prostate brachytherapy setup.
 
-<iframe src="http://www.youtube.com/embed/YIM0xQ6Oc_A"></iframe>
+<iframe src="http://www.youtube.com/embed/YIM0xQ6Oc_A">
+</iframe>
 
 ##Simulated endoscopy
 
