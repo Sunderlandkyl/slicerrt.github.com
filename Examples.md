@@ -18,7 +18,7 @@ layout: default
 
 Reference: Ungi et al. 2012, IEEE TBME
 
-<iframe src="http://www.youtube.com/embed/8Mt58XwF_KI"></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI"></iframe>
 
 ##Ultrasound guided prostate brachytherapy demo
 
