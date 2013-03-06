@@ -22,6 +22,8 @@ Reference: Ungi et al. 2012, IEEE TBME
 
 ##Ultrasound guided prostate brachytherapy demo
 
+This demo shows the components that can be used in a prostate brachytherapy setup.
+
 <iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A" frameborder="0"></iframe>
 
 ##Simulated endoscopy
