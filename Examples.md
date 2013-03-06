@@ -18,9 +18,7 @@ layout: default
 
 Reference: Ungi et al. 2012, IEEE TBME
 
-<p>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A" frameborder="0" allowfullscreen></iframe>
-</p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A" frameborder="0" allowfullscreen></iframe></p>
 
 <!--
 <iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0" allowfullscreen=""></iframe>
