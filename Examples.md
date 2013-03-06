@@ -14,3 +14,9 @@ layout: default
 
 #Applications that use SlicerIGT
 
+##Tracked ultrasound snapshot-guided facet joint injection (Ungi et al. 2012, IEEE TBME)
+
+<p>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0" allowfullscreen=""></iframe>
+</p>
+
