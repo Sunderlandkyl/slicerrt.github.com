@@ -17,7 +17,9 @@ layout: default
 ##Tracked ultrasound snapshot-guided facet joint injection
 <p>Reference: Ungi et al. 2012, IEEE TBME</p>
 <p>
+<!--
 <iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0" allowfullscreen=""></iframe>
+-->
 </p>
 
 <h2>Ultrasound guided prostate brachytherapy demo</h2>
