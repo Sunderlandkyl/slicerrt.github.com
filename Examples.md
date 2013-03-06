@@ -15,17 +15,20 @@ layout: default
 #Applications that use SlicerIGT
 
 ##Tracked ultrasound snapshot-guided facet joint injection
-<p>Reference: Ungi et al. 2012, IEEE TBME</p>
-<p>
+
+Reference: Ungi et al. 2012, IEEE TBME
+
+![:youtube 600x400](8Mt58XwF_KI)
+
 <!--
 <iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0" allowfullscreen=""></iframe>
--->
-</p>
-
-<h2>Ultrasound guided prostate brachytherapy demo</h2>
-<p>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A" frameborder="0" allowfullscreen></iframe>
-</p>
+-->
+
+##Ultrasound guided prostate brachytherapy demo
+
+![:youtube 600x400](YIM0xQ6Oc_A)
+
 
 <h2>Simulated endoscopy</h2>
 <p>
