@@ -25,13 +25,15 @@ Reference: Ungi et al. 2012, IEEE TBME
 
 This demo shows the components that can be used in a prostate brachytherapy setup.
 
-<iframe src="http://www.youtube.com/embed/YIM0xQ6Oc_A">
+<iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A">
 </iframe>
 
 ##Simulated endoscopy
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/QRFJRZwVKTQ" frameborder="0"></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/QRFJRZwVKTQ" frameborder="0">
+</iframe>
 
 ##Tracked ultrasound calibration
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/85SCx1Tm11Y" frameborder="0"></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/85SCx1Tm11Y" frameborder="0">
+</iframe>
