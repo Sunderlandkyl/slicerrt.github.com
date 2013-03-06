@@ -62,7 +62,8 @@ ul {
 }
 
 ul li {
-  padding-left: 12px;
+  padding-left: 10px;
+  margin-left: 12px;
 }
 
 ol {
