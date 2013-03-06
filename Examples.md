@@ -18,13 +18,13 @@ layout: default
 
 Reference: Ungi et al. 2012, IEEE TBME
 
-{% youtube 8Mt58XwF_KI %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0"></iframe>
+
 
 ##Ultrasound guided prostate brachytherapy demo
 
 <!--
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0" allowfullscreen=""></iframe>
 
 <h2>Simulated endoscopy</h2>
 <p>
