@@ -20,3 +20,20 @@ layout: default
 <iframe width="560" height="315" src="http://www.youtube.com/embed/8Mt58XwF_KI" frameborder="0" allowfullscreen=""></iframe>
 </p>
 
+##Ultrasound guided prostate brachytherapy demo
+
+<p>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/YIM0xQ6Oc_A" frameborder="0" allowfullscreen></iframe>
+</p>
+
+##Simulated endoscopy
+
+<p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/QRFJRZwVKTQ" frameborder="0" allowfullscreen></iframe>
+</p>
+
+##Tracked ultrasound calibration
+
+<p>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/85SCx1Tm11Y" frameborder="0" allowfullscreen></iframe>
+</p>
