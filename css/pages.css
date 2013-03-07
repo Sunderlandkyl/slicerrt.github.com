@@ -181,6 +181,7 @@ h3.thinner {
   background: -ms-linear-gradient(top, #4bb0c3, #0d83a3);
   background: -o-linear-gradient(top, #4bb0c3, #0d83a3);
   background: gradient(top, #4bb0c3, #0d83a3);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4bb0c3', endColorstr='#0d83a3',GradientType=0 );
 }
 
 #hero-spot .inner {
@@ -198,7 +199,7 @@ h3.thinner {
   font-weight: 700;
   line-height: 1.4;
   letter-spacing: 0px;
-  text-shadow: 0 0 10px #114111;
+  text-shadow: 1px 1px 10px #002041;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -212,7 +213,7 @@ h3.thinner {
   font-weight: 300;
   line-height: 1.4;
   letter-spacing: 0px;
-  text-shadow: 0 0 10px #114166;
+  text-shadow: 1px 1px 10px #002041;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -289,24 +290,6 @@ footer .upper_footer {
   background-color: #e8e8e8;
 }
 
-footer #blacktocat {
-  height:130px;
-  width:164px;
-  float:left;
-  background: url(../images/blacktocat.svg) no-repeat left 50%;
-  text-indent: -5000px;
-  margin: 15px 20px 0 0;
-}
-
-footer #blacktocat_ie {
-  height:130px;
-  width:164px;
-  float:left;
-  background: url(../images/blacktocat.png) no-repeat;
-  text-indent: -5000px;
-  margin: 15px 20px 0 0;
-}
-
 footer .upper_footer ul.footer_nav {
   position: relative;
   float: left;
@@ -318,67 +301,4 @@ footer .upper_footer ul.footer_nav h4 {
   margin-bottom: 5px;
   padding-bottom: 5px;
   border-bottom: thin solid #e1e1e1;
-}
-
-footer .lower_footer {
-  position: relative;
-  background-color: #fff;
-  overflow: hidden;
-  clear:both;
-}
-
-footer .lower_footer #legal {
-  float: left;
-  width:650px;
-  height: 60px;
-  line-height: 8px;
-  margin: 0px 0 0 15px;
-  padding-left: 0px;
-}
-
-footer .lower_footer #legal_ie {
-  float: left;
-  width:650px;
-  height: 50px;
-  line-height: 8px;
-  margin: 0px 0 0 18px;
-  padding-left: 0px;
-  background: url(../images/footer-logo.png) top left no-repeat;
-}
-
-footer .lower_footer div ul {
-  float: left;
-  text-indent: none;
-  display:inline;
-  margin-top: 15px;
-
-}
-
-footer .lower_footer div ul li {
-  display:inline;
-  float: left;
-  margin: 0 10px 2px 0;
-}
-
-footer .lower_footer div p {
-  display:inline;
-  float:left;
-  clear: both;
-  margin-top: 5px;
-}
-
-footer .lower_footer .sponsor {
-  width: 295px;
-  float: right;
-  margin-top: 35px;
-  padding-bottom: 25px;
-}
-
-footer .lower_footer .sponsor .logo {
- float:left;
- margin: 0 10px 0 0;
-}
-
-footer .lower_footer .sponsor a {
-  color: #000;
 }
