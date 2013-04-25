@@ -1,4 +1,4 @@
-slicerigt.github.com
+slicerrt.github.com
 ===============
 
-SlicerIGT website
+SlicerRT website

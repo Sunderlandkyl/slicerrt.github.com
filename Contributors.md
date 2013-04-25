@@ -5,8 +5,10 @@ layout: default
 
 In alphabetical order.
 
-*   Adam Rankin (Queen's University, Kingston, ON)
 *   Andras Lasso (Queen's University, Kingston, ON)
+*   Csaba Pinter (Queen's University, Kingston, ON)
+*   David Jaffray (Princess Margaret Hospital, Toronto, ON)
 *   Gabor Fichtinger (Queen's University, Kingston, ON)
-*   Junichi Tokuda (Brigham and Women's Hospital, Boston, MA)
-*   Tamas Ungi (Queen's University, Kingston, ON)
+*   Greg Sharp (Massatchusetts General Hospital, Boston, MA)
+*   Kevin Wang (Princess Margaret Hospital, Toronto, ON)
+*   Steve Pieper (Isomics Inc., Cambridge, MA)
