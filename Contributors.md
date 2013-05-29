@@ -12,3 +12,8 @@ In alphabetical order.
 *   Greg Sharp (Massatchusetts General Hospital, Boston, MA)
 *   Kevin Wang (Princess Margaret Hospital, Toronto, ON)
 *   Steve Pieper (Isomics Inc., Cambridge, MA)
+
+#Funding sources for the SlicerRT project
+
+##Infrastructure
+*   [SparKit project](https://www.assembla.com/spaces/sparkit/wiki)
