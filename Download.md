@@ -10,8 +10,9 @@ Packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer downl
 *   Start 3D Slicer
 <br>
 *   Open Extension Manager
-<br>
+<br><br>
 ![3D Slicer - Open Extension Manager](images/SlicerCorner.png)
-<br>
+<br><br>
 *   Install SlicerRT
-<br>![3D Slicer - Extension Manager Browser](images/SlicerRT_0.10_ExtensionManager_Browser_ClickOnSlicerRT.png)
+<br><br>
+![3D Slicer - Extension Manager Browser](images/SlicerRT_0.10_ExtensionManager_Browser_ClickOnSlicerRT.png)
