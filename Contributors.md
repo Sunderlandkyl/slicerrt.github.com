@@ -13,6 +13,7 @@ In alphabetical order.
 *   Kevin Wang (Princess Margaret Hospital, Toronto, ON)
 *   Steve Pieper (Isomics Inc., Cambridge, MA)
 
+
 #Funding sources for the SlicerRT project
 
 ##Infrastructure
