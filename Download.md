@@ -11,7 +11,8 @@ The stable release lacks several new features of SlicerRT, and is not supported 
 *   Patient Hierarchy
 *   Vff reader
 *   Many bugfixes
-<br><br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).
+
+<br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).
 
 #Install SlicerRT
 
