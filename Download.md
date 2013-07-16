@@ -3,7 +3,7 @@ layout: default
 ---
 #Download and install 3D Slicer
 
-*   The Slicer package <b>recommended for SlicerRT<b> can be downloaded from here:
+*   The Slicer package <b>recommended for SlicerRT<b> can be downloaded from here:<br> [2013-07-08 Nightly for Windows 64](http://slicer.kitware.com/midas3/api/rest?method=midas.bitstream.download&name=Slicer-4.2.0-2013-07-08-win-amd64.exe&checksum=cc606a96d127b80d05f18492030cbd66).
 
 *   Stable release<br>
 The stable release lacks several new features of SlicerRT, and is not supported any more (new features cannot be backported).<br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).<br>
