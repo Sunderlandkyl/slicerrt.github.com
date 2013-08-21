@@ -14,7 +14,10 @@ In alphabetical order.
 *   Steve Pieper (Isomics Inc., Cambridge, MA)
 
 
-<br><br>
+<br>
+
+
+<br>
 #Funding sources for the SlicerRT project
 ![Cancer Care Ontario](http://www.slicer.org/slicerWiki/images/3/3f/LogoCco.png) 
 ![https://www.assembla.com/spaces/sparkit/wiki](http://www.slicer.org/slicerWiki/images/8/88/Logo-SparKit.png) 
