@@ -16,6 +16,6 @@ In alphabetical order.
 <br><br>
 
 #Funding sources for the SlicerRT project
-![Cancer Care Ontario](http://www.slicer.org/slicerWiki/images/3/3f/LogoCco.png) &nbsp;&nbsp;&nbsp;
-![https://www.assembla.com/spaces/sparkit/wiki](http://www.slicer.org/slicerWiki/images/8/88/Logo-SparKit.png) &nbsp;&nbsp;&nbsp;
-![OCAIRO](http://www.slicer.org/slicerWiki/images/2/27/LogoOCAIRO.jpg) &nbsp;&nbsp;&nbsp;
+![Cancer Care Ontario](http://www.slicer.org/slicerWiki/images/3/3f/LogoCco.png) 
+![https://www.assembla.com/spaces/sparkit/wiki](http://www.slicer.org/slicerWiki/images/8/88/Logo-SparKit.png) 
+![OCAIRO](http://www.slicer.org/slicerWiki/images/2/27/LogoOCAIRO.jpg)
