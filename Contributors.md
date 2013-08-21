@@ -15,6 +15,7 @@ In alphabetical order.
 
 
 #Funding sources for the SlicerRT project
-
-##Infrastructure
-*   [SparKit project](https://www.assembla.com/spaces/sparkit/wiki)
+<br>
+![Cancer Care Ontario](http://www.slicer.org/slicerWiki/images/3/3f/LogoCco.png)
+![https://www.assembla.com/spaces/sparkit/wiki](http://www.slicer.org/slicerWiki/images/8/88/Logo-SparKit.png)
+![OCAIRO](http://www.slicer.org/slicerWiki/images/2/27/LogoOCAIRO.jpg)
