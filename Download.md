@@ -26,3 +26,10 @@ The missing features are:
 *   Install SlicerRT
 <br><br>
 ![3D Slicer - Extension Manager Browser](images/SlicerRT_0.10_ExtensionManager_Browser_ClickOnSlicerRT.png)
+
+#System requirements
+To run 3D Slicer you need the following configuration (SlicerRT extensions do not have any additional requirement):
+*   Computer with a 64-bit operating system  [required]. Note that Windows executables are created for 32-bit systems, but they are not suitable for any work that involves loading and processing of more than one volumetric image.
+*   Minimum 6GB RAM [recommended for optimal performance]
+*   Dedicated nVidia GPU with 1GB RAM [recommended for 3D graphics display performance]. Note that integrated graphics cards are very slow compared to dedicated ones.
+*   Quad-core intel processor [recommended for optimal processing speed]
