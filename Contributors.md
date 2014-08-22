@@ -13,6 +13,8 @@ layout: default
 *   David Jaffray (Princess Margaret Hospital, Toronto, ON)
 *   Gabor Fichtinger (Queen's University, Kingston, ON)
 
+<br>
+
 ####Students
 
 *   Jennifer Andrea
@@ -21,8 +23,7 @@ layout: default
 *   Boyeong Woo
 
 <br>
-
-
 <br>
+
 #Funding sources for the SlicerRT project
 ![SlicerRT funding sources](http://www.slicer.org/slicerWiki/images/4/40/SlicerRtFundingSources.png)
