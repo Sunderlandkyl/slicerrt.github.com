@@ -13,6 +13,12 @@ layout: default
 *   David Jaffray (Princess Margaret Hospital, Toronto, ON)
 *   Gabor Fichtinger (Queen's University, Kingston, ON)
 
+####Students
+
+*   Jennifer Andrea
+*   Mattea Welch
+*   Kyle Sunderland
+*   Boyeong Woo
 
 <br>
 
