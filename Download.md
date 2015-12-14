@@ -3,7 +3,7 @@ layout: default
 ---
 #Download and install 3D Slicer
 
-*   Stable Slicer 4.4 release is <b>recommended</b> to use for SlicerRT.<br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).<br><br>
+*   Latest stable Slicer release is <b>recommended</b> to use for SlicerRT.<br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).<br><br>
 *   Nightly Slicer builds can be used to access cutting edge Slicer features (the installed SlicerRT is still the officially released version).<br>These packages can be downloaded from the [nightly dashboard](http://slicer.cdash.org/index.php?project=Slicer4) (click on the yellow box icon next to the build corresponding to your platform and use the link provided there).<br>Note: Nightly builds may fail from time to time. If the current nightly is missing, it is possible to see builds from previous days.
 
 #Install SlicerRT
