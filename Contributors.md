@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#Contributors
+# Contributors
 
 *   __Csaba Pinter__ (Queen's University, Kingston, ON)
 *   __Andras Lasso__ (Queen's University, Kingston, ON)
@@ -15,7 +15,7 @@ layout: default
 
 <br>
 
-####Students (alphabetical order)
+#### Students (alphabetical order)
 
 *   Kevin Alexander (Queen's University, Kingston, ON)
 *   Jennifer Andrea (Queen's University, Kingston, ON)
@@ -31,5 +31,5 @@ layout: default
 <br>
 <br>
 
-#Funding sources for the SlicerRT project
+# Funding sources for the SlicerRT project
 ![SlicerRT funding sources](http://www.slicer.org/slicerWiki/images/4/40/SlicerRtFundingSources.png)
