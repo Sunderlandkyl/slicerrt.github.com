@@ -7,7 +7,7 @@ layout: default
 # Further SlicerRT publications
 *  Pinter, C., Lasso, A., Wang, A., Sharp, G. C., Alexander, K., Jaffray, D., & Fichtinger, G. (2015). Performing radiation therapy research using the open-source SlicerRT toolkit. In World Congress on Medical Physics and Biomedical Engineering, June 7-12, 2015, Toronto, Canada (pp. 622-625). Springer International Publishing.
 *  Pinter, C., Lasso, A., Wang, A., Jaffray, D., & Fichtinger, G. Application of the SlicerRT toolkit for image-guided radiation therapy research. Image-Guidance and Multimodal Dose Planning in Radiation Therapy, 120.
-*  
+
 # Applications of SlicerRT
 ([Full list of articles referencing SlicerRT](https://scholar.google.ca/scholar?oi=bibs&hl=en&cites=983837184278692696))
 *   Renner, A., Furtado, H., Seppenwoolde, Y., Birkfellner, W., & Georg, D. (2016, March). Deformable image registration with a featurelet algorithm: implementation as a 3D-slicer extension and validation. In SPIE Medical Imaging (pp. 97844B-97844B). International Society for Optics and Photonics.
