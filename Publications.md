@@ -9,7 +9,8 @@ layout: default
 *  Pinter, C., Lasso, A., Wang, A., Jaffray, D., & Fichtinger, G. Application of the SlicerRT toolkit for image-guided radiation therapy research. Image-Guidance and Multimodal Dose Planning in Radiation Therapy, 120.
 
 # Applications of SlicerRT
-([Full list of articles referencing SlicerRT](https://scholar.google.ca/scholar?oi=bibs&hl=en&cites=983837184278692696))<br>
+([Full list of articles referencing SlicerRT](https://scholar.google.ca/scholar?oi=bibs&hl=en&cites=983837184278692696))
+
 *   Renner, A., Furtado, H., Seppenwoolde, Y., Birkfellner, W., & Georg, D. (2016, March). Deformable image registration with a featurelet algorithm: implementation as a 3D-slicer extension and validation. In SPIE Medical Imaging (pp. 97844B-97844B). International Society for Optics and Photonics.
 *   Siavashpour, Z., Aghamiri, M. R., Jaberi, R., Dehghan-Manshadi, H. R., Sedaghat, M., & Kirisits, C. (2016). Evaluating the utility of “3D Slicer” as a fast and independent tool to assess intrafractional organ dose variations in gynecological brachytherapy. Brachytherapy.
 *   Park, J. W., & Yea, J. W. (2016). Three-dimensional customized bolus for intensity-modulated radiotherapy in a patient with Kimura's disease involving the auricle. Cancer/Radiothérapie.
