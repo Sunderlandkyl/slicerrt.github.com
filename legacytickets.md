@@ -1,3 +1,6 @@
+---
+layout: default
+--- 
 
 ## #2 Define SparKit goals for the first 6 months
 * Get info from OCAIRO investigators: Using online survey. Managed mainly by Annie Hum.
