@@ -1,6 +1,9 @@
 ---
 layout: default
+title: Legacy Assembla Tickets
 --- 
+
+{% raw %}
 
 ## #2 Define SparKit goals for the first 6 months
 * Get info from OCAIRO investigators: Using online survey. Managed mainly by Annie Hum.
@@ -1901,7 +1904,7 @@ However the issue in the RT examples we have been looking at is that the CT and 
 Again, I can easily see how this could happen in practice, but I don't think it's valid ;)
 
 #### 2012-12-17, 21:33:03 - Gabor Fichtinger
-This continues to be a hairy issue… Traditionally, it is true that “RT data is based on the CT as it's reference data”  - however, this is expected to change, because adaptive RT plans will be based on multiple image data sources, from different sources (CT, MRI) throughout the course of series of treatment fractions. –Gabor
+This continues to be a hairy issue… Traditionally, it is true that “RT data is based on the CT as it's reference data”  - however, this is expected to change, because adaptive RT plans will be based on multiple image data sources, from different sources (CT, MRI) throughout the course of series of treatment fractions. –Gabor
  
  
 From: pieper [mailto:slicerrt@alerts.assembla.com] 
@@ -4612,7 +4615,7 @@ I was wondering if there is there any way for you to correct your reference for 
 
 The bibtex entry is as follows:
 
-{% raw %}
+
 ~~~~~
 @ARTICLE{Panchal2010,
    author = {{Panchal}, A. and {Keyes}, R.},
@@ -4624,7 +4627,6 @@ The bibtex entry is as follows:
       doi = {10.1118/1.3468652},
 }
 ~~~~~
-{% endraw %}
 
 Thanks,
 
@@ -6970,13 +6972,13 @@ I am adding Matt McCormick to the discussion, he worked on the parameter seriali
 
 For more details, see 
 
-  https://github.com/Slicer/SlicerExecutionModel/pull/20
+  https://github.com/Slicer/SlicerExecutionModel/pull/20
 
 
 and 
- 
-  http://slicer-devel.65872.n3.nabble.com/SlicerExecutionModel-pull-request-Parameter-Serializer-td4029759.html
- 
+ 
+  http://slicer-devel.65872.n3.nabble.com/SlicerExecutionModel-pull-request-Parameter-Serializer-td4029759.html
+ 
 
 > Maybe this could be a project at the project week?
 
@@ -10971,14 +10973,14 @@ Sent: September-06-13 2:57 PM
       On 9/6/2013 16:08, Gabor Fichtinger wrote:
     
                                     Is              this a proper CT simulator or the fake generator for              Chandra? 
-         
-         
-         
+         
+         
+         
         From: Csaba Pinter (pinter)              [mailto:slicerrt@alerts.assembla.com] 
               Sent:              September-06-13 2:57 PM
               To: Gabor              Fichtinger (gfichti1)
               Subject:              [Assembla] [Slicerrt] #193: Create a tool that can convert              tracked ultrasound sequences to CT volumes
-         
+         
 
 #### 2013-09-10, 16:44:11 - Adam Rankin
 Link to work in progress:
@@ -13739,21 +13741,21 @@ This is the new location for DCMTKConfig.cmake, and no longer the location of DC
 assigned_to_id: changed from null to "gregsharp"
 
 #### 2013-03-30, 15:36:35 - jchris
-Hi Greg, 
+Hi Greg, 
 
-The path to DCMTK_DIR should now be: /home/gsharp/build/slicer-4/Slicer-build/DCMTK-build/lib/cmake/dcmtk The different is explained by 
+The path to DCMTK_DIR should now be: /home/gsharp/build/slicer-4/Slicer-build/DCMTK-build/lib/cmake/dcmtk The different is explained by 
 
 
 (1) the fact, a previous build of DCMTK exported its tree to the user package registry (~/.cmake/package/DCMTK/..)
 
 
-(2) a problem with the Generation of SlicerConfig.cmake, in a clean build tree, DCMTK_DIR is set to an empty string.
+(2) a problem with the Generation of SlicerConfig.cmake, in a clean build tree, DCMTK_DIR is set to an empty string.
 
 
 I am looking in that problem and will submit a patch.
 
 
-Thanks for you detailed report, 
+Thanks for you detailed report, 
 Jc
 
 #### 2013-04-01, 12:58:48 - Greg Sharp
@@ -13778,14 +13780,14 @@ assigned_to_id: changed from "gregsharp" to "pinter"
 status: changed from "New" to "Test"
 
 #### 2013-04-01, 22:39:35 - jchris
-Hi Folks, 
+Hi Folks, 
 
 Extensions should now be able to use variables DCMTK_LIBRARIES
 and DCMTK_INCLUDE_DIRS directly after doing: find_package(Slicer)
 
 
 
-See http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=21854
+See http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=21854
 
 
 Hth
@@ -13820,7 +13822,7 @@ Jc
 #### 2013-04-01, 23:01:15 - jchris
 Indeed.
 
-As a side note, windows packaging should be available tomorrow morning. See http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=21855
+As a side note, windows packaging should be available tomorrow morning. See http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=21855
 
 
 
@@ -13836,14 +13838,14 @@ On Mon, Apr 1, 2013 at 6:56 PM, Csaba Pintér <pinter@cs.queensu.ca> wrote:
     
 
 
-          Hi Folks,         
+          Hi Folks,         
         
                   Extensions should now be able to use variables            DCMTK_LIBRARIES
           and DCMTK_INCLUDE_DIRS directly after doing:            find_package(Slicer)
         
         
         
-        See http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=21854
+        See http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=21854
         
         
                   Hth
@@ -17050,7 +17052,7 @@ Fill wiki page url:https://www.assembla.com/spaces/perklabsandbox/wiki/Slicelet_
 Mention common pitfalls and best practices.
 
 #### 2013-06-11, 14:55:20 - Mattea Welch
-Hi Csaba! Are you able to give me access to this space? I can't seem to find it. 
+Hi Csaba! Are you able to give me access to this space? I can't seem to find it. 
 
 Thanks!
 Mattea
@@ -29161,7 +29163,7 @@ This is required because the type of object returned by 'widgetRepresentation' m
 
 
 
-In case case, the object types to cast from/to are both of type QObject/QWidget, the macro 'qobject_cast' could be used.  See [3]. That would be the equivalent of 'SafeDownCast' existing in VTK.
+In case case, the object types to cast from/to are both of type QObject/QWidget, the macro 'qobject_cast' could be used.  See [3]. That would be the equivalent of 'SafeDownCast' existing in VTK.
 
 
 
@@ -33742,7 +33744,7 @@ Regarding MacOSx we may have to build the following project: http://clang-omp.gi
 Thanks for clarifying. 
 
 
- 
+ 
 
 (2) Good question. A test might run post-packaging, and detect existence of library in zip file. I'm willing to write the test, but I'm not sure where to hook it in. Yes, openmp is always included in MSVC pro version (2008 and newer).
 
@@ -33750,7 +33752,7 @@ Thanks for clarifying.
 Was thinking about a configure test checking if the openmp library was available. That way we would be able to detect and warn the developer at configure time if anything is missing ...
 
 
- 
+ 
 
 (3) Are factories using clang compiler?
 
@@ -35326,7 +35328,7 @@ Hi Csaba,
 
 Regarding ModelMaker, I would like to point to your attention:
 
-  http://www.na-mic.org/Bug/view.php?id=4081
+  http://www.na-mic.org/Bug/view.php?id=4081
 
 
 
@@ -43123,4 +43125,4 @@ Commit: r:3207|slicerrt:3207
 Re #868: Updated segment comparison test baseline due to change in Hausdorff calculation in Plastimatch
 Commit: r:3208|slicerrt:3208
 
-
+{% endraw %}
